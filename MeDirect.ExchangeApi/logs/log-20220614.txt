@@ -1,0 +1,6 @@
+2022-06-14 19:29:27.642 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-14 19:29:27.677 +04:30 [INF] Hosting environment: Development
+2022-06-14 19:29:27.678 +04:30 [INF] Content root path: D:\MyProgram\Sample\MeDirect\MeDirect.ExchangeApi
+2022-06-14 19:29:32.916 +04:30 [INF] Processed localhost:44306/GetLastRate with input: {"userId":"3fa85f64-5717-4562-b3fc-2c963f66afa6","currencyFrom":0,"currencyTo":0}
+2022-06-14 19:29:33.055 +04:30 [ERR] Error in GetLastRate input:{"UserId":"3fa85f64-5717-4562-b3fc-2c963f66afa6","CurrencyFrom":"AED","CurrencyTo":"AED","$type":"GetRateModel"} with message both currency are equals
+2022-06-14 19:29:33.067 +04:30 [INF] HTTP POST /GetLastRate responded 400 in 145.5711 ms
