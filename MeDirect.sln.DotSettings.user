@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c185fe1_002D2564_002D44f8_002D92da_002Da76e63b49e99/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.RedisTest.TestRedis&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cd88af3_002D0759_002D464a_002D934a_002D18064f98b9d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.Tests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83f66d06_002D831b_002D4cd5_002D9fcc_002Df283d2e4ada4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestRedis" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.RedisTest.TestRedis&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.UserServiceTest.LimitTradeInHour_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.LimitTradeInHourTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.ExchangeTest.Exchange_Success_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.ExchangeTest.Exchange_Duplicate_currency_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.ExchangeTest.Exchange_LimitInTrade_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::005C1B83-A0AB-42E0-9639-8BF74BE16C8B::net5.0::MeDirect.Test.ExchangeTest.Exchange_RateExpired_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=hamid/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

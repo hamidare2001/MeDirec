@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeDirect.ExchangeApi", "MeDirect.ExchangeApi\MeDirect.ExchangeApi.csproj", "{4366C24F-E242-4D8E-95AA-F9B037989766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeDirect.Test", "MeDirect.Test\MeDirect.Test.csproj", "{005C1B83-A0AB-42E0-9639-8BF74BE16C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4366C24F-E242-4D8E-95AA-F9B037989766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4366C24F-E242-4D8E-95AA-F9B037989766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4366C24F-E242-4D8E-95AA-F9B037989766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4366C24F-E242-4D8E-95AA-F9B037989766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005C1B83-A0AB-42E0-9639-8BF74BE16C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005C1B83-A0AB-42E0-9639-8BF74BE16C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005C1B83-A0AB-42E0-9639-8BF74BE16C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005C1B83-A0AB-42E0-9639-8BF74BE16C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B263D6-62ED-49AE-BBB3-20739AB456E1}
+	EndGlobalSection
+EndGlobal
